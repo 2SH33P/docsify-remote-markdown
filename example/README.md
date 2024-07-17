@@ -1,3 +1,3 @@
 # Example
 
-[remoteMarkdownUrl](https://raw.githubusercontent.com/docsifyjs/docsify/develop/README.md)
+[remoteMarkdownUrl](https://d.ewno.bid/Other/READ.md)
